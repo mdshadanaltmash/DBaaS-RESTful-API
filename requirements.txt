@@ -1,0 +1,4 @@
+flask
+flask-restful
+pymongo
+dnspython==2.0.0
